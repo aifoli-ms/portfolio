@@ -16,7 +16,7 @@ const projects = [
     description:
       "AmbuLink is a mobile-first application designed to drastically reduce emergency response times. It allows users to request an ambulance with a single tap, sending their precise location and critical details directly to nearby dispatch centers and responders.",
     tech: ["TypeScript", "JavaScript", "REST API"],
-    image: "/axon-ai-extension.png",
+    image: "/AmbuLink.png",
     website: "https://ambu-frontend.vercel.app",
   },
   {
