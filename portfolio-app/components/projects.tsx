@@ -12,12 +12,12 @@ const projects = [
   },
   {
     id: 2,
-    title: "Axon AI",
+    title: "AmbuLink",
     description:
-      "A Chrome extension developed for FIDO Micro Credit that delivers real-time knowledge-base suggestions during customer chats, improving response speed by 30%.",
-    tech: ["JavaScript", "Flask", "REST API"],
+      "AmbuLink is a mobile-first application designed to drastically reduce emergency response times. It allows users to request an ambulance with a single tap, sending their precise location and critical details directly to nearby dispatch centers and responders.",
+    tech: ["TypeScript", "JavaScript", "REST API"],
     image: "/axon-ai-extension.png",
-    website: "https://axon-ai.com",
+    website: "https://ambu-frontend.vercel.app",
   },
   {
     id: 3,
